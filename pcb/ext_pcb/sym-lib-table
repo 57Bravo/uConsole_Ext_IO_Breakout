@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "1_project")(type "KiCad")(uri "/home/bbrink/code/uconsole_external_io/pcb/1_project.kicad_sym")(options "")(descr ""))
+)
