@@ -1,4 +1,4 @@
-21846063948284771
+21874996455843461
 1_project
 AMPHENOL_SFW15R-2STE1LF
 
@@ -13,6 +13,27 @@ CUI_SJ2-3574A-SMT-TR
 0
 4
 4
+1_project
+GSB12J21C1EU
+<b>GSB12J21C1EU-2</b><br>
+
+0
+8
+8
+1_project
+JST_S2B-XH-A(LF)(SN)
+
+
+0
+2
+2
+1_project
+JST_SM04B-SRSS-TB(LF)(SN)
+
+
+0
+6
+6
 1_project
 USB_TYPE_A
 
@@ -42694,7 +42715,7 @@ RJ12 RJ18 RJ25 jack connector 6P6C
 6
 Connector_RJ
 RJ45_Abracon_ARJP11A-MA_Horizontal
-Shielded RJ45 ethernet connector with transformer and POE (https://abracon.com/Magnetics/lan/ARJP11A.PDF)
+Shielded RJ45 ethernet connector with transformer and POE, https://abracon.com/Magnetics/lan/ARJP11A.PDF
 ethernet 8p8c transformer poe rj45
 0
 15
@@ -42721,6 +42742,13 @@ RJ45 8p8c dual ethernet cat5
 26
 25
 Connector_RJ
+RJ45_Amphenol_RJHSE538X-04
+Shielded, LEDs, 4 Ports, https://cdn.amphenol-cs.com/media/wysiwyg/files/drawing/rjhse538x04.pdf
+RJ45 8p8c quad ethernet cat5
+0
+52
+49
+Connector_RJ
 RJ45_Amphenol_RJHSE5380
 Shielded, https://www.amphenolcanada.com/ProductSearch/drawings/AC/RJHSE538X.pdf
 RJ45 8p8c ethernet cat5
@@ -42736,7 +42764,7 @@ RJ45 8p8c ethernet cat5
 65
 Connector_RJ
 RJ45_Amphenol_RJMG1BD3B8K1ANR
-1 Port RJ45 Magjack Connector Through Hole 10/100 Base-T, AutoMDIX, https://www.amphenolcanada.com/ProductSearch/Drawings/AC/RJMG1BD3B8K1ANR.PDF
+1 Port RJ45 Magjack Connector Through Hole 10/100 Base-T, AutoMDIX, https://www.amphenol-cs.com/media/wysiwyg/files/drawing/rjmg1bd3b8k1anr.pdf
 RJ45 Magjack
 0
 14
@@ -54166,6 +54194,20 @@ Fuse Nano2
 2
 2
 Fuse
+Fuse_Littelfuse-NANO2-462
+Littelfuse NANO2, 250VAC/VDC, 350VAC/VDC, 10.5 x 4.5 x 4.5mm, https://www.littelfuse.com/media?resourcetype=datasheets&itemid=6201db33-6e55-43f2-b41f-15e38bdd2c99&filename=littelfuse-fuse-462-datasheet
+Fuse Nano2 462
+0
+2
+2
+Fuse
+Fuse_Littelfuse-NANO2-885
+Littelfuse NANO2, 350VAC, 450/500VDC, 10.86 x 4.78 x 4.78mm, https://www.littelfuse.com/media?resourcetype=datasheets&itemid=888f12ed-ed3b-4b45-b910-06af8854ad76&filename=littelfuse-fuse-885-datasheet
+Fuse Nano2 885
+0
+2
+2
+Fuse
 Fuse_Littelfuse_372_D8.50mm
 Fuse, Littelfuse, 372, 8.5x8mm, https://www.littelfuse.com/~/media/electronics/datasheets/fuses/littelfuse_fuse_372_datasheet.pdf.pdf
 fuse tht radial
@@ -57760,6 +57802,13 @@ Inductor_SMD
 L_Wuerth_WE-XHMI-8080
 Inductor, Wuerth, WE-XHMI 8080, 8.3mmx8.8mm (Script generated with StandardBox.py) (https://www.we-online.com/components/products/datasheet/74439358068.pdf)
 Inductor Wuerth WE-XHMI 8080
+0
+2
+2
+Inductor_SMD
+L_Wurth_WE-CAIR-5910
+WE-CAIR Air coil, https://www.we-online.com/components/products/datasheet/744918254.pdf
+air coil inductor wurth we cair
 0
 2
 2
@@ -72999,6 +73048,13 @@ Package_LGA
 LGA-8_3x5mm_P1.25mm
 LGA-8
 lga land grid array
+0
+8
+8
+Package_LGA
+LGA-8_8x6mm_P1.27mm
+LGA, 8 Pin (https://datasheet.lcsc.com/lcsc/2005251034_XTX-XTSD01GLGEAG_C558837.pdf#page=6), generated with kicad-footprint-generator ipc_noLead_generator.py
+LGA NoLead
 0
 8
 8
