@@ -14,6 +14,8 @@ https://github.com/clockworkpi/uConsole/blob/master/clockwork_Adapter_CM4_Schema
 
 https://github.com/clockworkpi/DevTerm/tree/main/Schematics
 
+![media/populated_board.gif](media/populated_board.gif)
+
 ![media/assembly.gif](media/assembly.gif)
 
 ![media/mockup.gif](media/mockup.gif)
