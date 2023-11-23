@@ -22,3 +22,18 @@ https://github.com/clockworkpi/DevTerm/tree/main/Schematics
 
 ![docs/schematic.pdf](docs/schematic.pdf)
 
+## REV: -
+
+**Epic fail on REV: -.**
+
+When I made it, CPI hadn't released the DXF for the 4G card yet. I had to eyeball the board outline based on the website images. I missed the outer edge by 1mm. 
+
+Luckily the edge was just ground plane, and I was able to file the FR4 back to get it to fit. Continuity checks out, but.... I think a REV: A is in order ha.
+
+The fixes for REV: A are:
+* fix the board outline to account for the thicker enclosure wall
+* refactor the audio so that the onboard speakers can be used instead of the JSTs
+* flip the QWIIC connectors so they don't interfere with the speaker housings
+* pull the USB connectors in a little so they're flush with the enclosure wall
+
+![Epic Fail](media/rev_-/epic_fail.gif)
