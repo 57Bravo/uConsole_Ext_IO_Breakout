@@ -37,3 +37,13 @@ The fixes for REV: B are:
 * pull the USB connectors in a little so they're flush with the enclosure wall
 
 ![Epic Fail](media/rev_a/epic_fail.gif)
+
+## Notes
+
+### Other boards made by Quadbit (Vitaly Domnikov), that you can buy on Tindie
+
+* [uPico](https://www.tindie.com/products/quadbit/upico/)
+  * [Src](https://github.com/dotcypress/upico)
+* [uHub](https://www.tindie.com/products/quadbit/uhub/)
+  * [Src](https://github.com/dotcypress/uhub)
+ 
